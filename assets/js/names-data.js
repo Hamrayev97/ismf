@@ -189,7 +189,7 @@ window.NAMES_DATA = [
 {"name": "Aziza", "meaning": "Aziza ismining ma’nosi: qadrli, qimmatli, tabarruk, hurmatli, izzatli va noyob degan ma’nolarni anglatadi. Bu ism ota-ona uchun farzandning aziz, suyukli va e’zozli ekanini bildiradi. Mashhur shaxs: Aziza Mustafa Zadeh — ozarbayjonlik jazz pianisti, xonanda va bastakor sifatida tanilgan. Arabcha.", "url": "ismlar/aziza/", "group": "qiz-bolalar-ismlari", "religious": "", "slug": "aziza"},
 {"name": "Azizbegim", "meaning": "Azizbegim ismining ma’nosi: beklar naslidan bo‘lgan qadrli, suyukli va e’zozli qiz. Bu ism hurmat, qadr-qimmat va aslzodalik ma’nolarini anglatadi.", "url": "ismlar/azizbegim/", "group": "qiz-bolalar-ismlari", "religious": "", "slug": "azizbegim"},
 {"name": "Azmiya", "meaning": "Azmiya ismining ma’nosi: ezgu niyatli, ulug‘ maqsadli, kuchli va irodali qiz. Bu ism farzandning qat’iyatli, maqsad sari intiladigan va irodali bo‘lishini bildiradi.", "url": "ismlar/azmiya/", "group": "qiz-bolalar-ismlari", "religious": "", "slug": "azmiya"},
-{"name": "Azro", "meaning": "Azro ismining ma’nosi: iffatli, nomusli, bokira yoki chiroyli, go‘zal va zebo qiz. Bu ism hayo-iboda tengsiz, andishali va latofatli qiz bo‘lsin degan niyatda qo‘yiladi.", "url": "ismlar/azro/", "group": "qiz-bolalar-ismlari", "religious": "", "slug": "azro"} 
+{"name": "Azro", "meaning": "Azro ismining ma’nosi: iffatli, nomusli, bokira yoki chiroyli, go‘zal va zebo qiz. Bu ism hayo-iboda tengsiz, andishali va latofatli qiz bo‘lsin degan niyatda qo‘yiladi.", "url": "ismlar/azro/", "group": "qiz-bolalar-ismlari", "religious": "", "slug": "azro"}, 
   {
     "name": "Abbos",
     "meaning": "Jasur, qat’iyatli, sherday botir inson ma’nosida ishlatiladi.",
